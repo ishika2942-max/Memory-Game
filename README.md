@@ -1,6 +1,7 @@
-# first_repo
+
 Hello World !
 Author: Ishika
+
 # Memory Game using Python & Pygame
 
 A simple memory game developed using Python and Pygame to explore game development fundamentals and programming logic.
