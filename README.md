@@ -1,5 +1,4 @@
 
-Hello World !
 Author: Ishika
 
 # Memory Game using Python & Pygame
